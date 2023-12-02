@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Anurag's GitHub stats](https://github-readme-stats-skutela32s-projects.vercel.app/api?username=anuraghazra&show_icons=true)
 <!--
 **Skutela32/Skutela32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
